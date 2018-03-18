@@ -6,6 +6,7 @@
 #' ---
 
 library(here)
+library(rmarkdown)
 
 if(!dir.exists(here("results"))){
   dir.create(here("results"))
