@@ -38,7 +38,7 @@ have raised red flags early on.
 
 Full details supporting this report are available at
 
-**ADD SITE HERE**
+https://github.com/kabagg/enar_2018_rr_short_course
 
 Relative links make use of the R package `here`.
 
